@@ -1,0 +1,12 @@
+{
+  "name": "mern_stack_restaurant_reservation-a2f35d475047025ef461f129ae22f9a464929e4d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
